@@ -24,7 +24,7 @@
 			<input type="textarea" name="message" id="message" col="30" row="10" placeholder="Your Message">
 		</div>
 		<div>
-			<input type="button" class="btn btn-primary" value="Kirim">
+			<input type="submit" class="btn btn-primary" value="Kirim">
 			<input type="reset" value="Reset">
 		</div>
 	</form>

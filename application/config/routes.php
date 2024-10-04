@@ -57,3 +57,4 @@ $route['translate_uri_dashes'] = FALSE;
 $route['contact'] = 'page/contact';
 $route['about'] = 'page/about';
 $route['home'] = 'page/home';
+$route['article/(:any)'] = 'article/show/$1';
